@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Just-PH
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on dat science
+- 💞️ I’m looking to collaborate and work on Data Science project 
 - 📫 How to reach me phdelville33@gmail.com
 
 <!---
