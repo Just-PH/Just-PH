@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Just-PH
+- 👋 Hi, I’m Pierre-Henri
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate and work on Data Science project 
