@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Pierre-Henri
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate and work on Data Science project 
-- 📫 How to reach me phdelville33@gmail.com
-# 👋 Pierre-Henri Delville
-
 ## 🇬🇧 About me
 
+- 👋 Hi, I’m Pierre-Henri
+- 👀 I’m interested in data science
+- 💞️ I’m looking to collaborate and work on Data Science project 
+- 📫 How to reach me phdelville33@gmail.com
+- 
 I'm a former physics researcher turned data scientist, driven by curiosity and a deep love for understanding how systems work — whether it's a colony of bacteria, an economy, or a model's latent space.
 
 I use Python (with a soft spot for Polars), machine learning, and a touch of deep learning to build end-to-end solutions that actually do stuff. You’ll find here some of my recent experiments, like:
@@ -20,6 +18,11 @@ I'm into tech projects that aim to be useful, not just shiny. Currently explorin
 ---
 
 ## 🇫🇷 À propos
+
+-👋 Salut, moi c’est Pierre-Henri !
+-👀 Je m’intéresse à la data science
+-💞️ Je cherche à collaborer et à travailler sur des projets en data science
+-📫 Tu peux me contacter à l’adresse suivante : phdelville33@gmail.com
 
 Ancien chercheur en physique devenu data scientist, je suis animé par la curiosité et une envie constante de comprendre comment les systèmes fonctionnent — que ce soit une colonie de bactéries, une économie ou un espace latent.
 
